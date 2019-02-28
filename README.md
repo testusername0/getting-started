@@ -1,2 +1,2 @@
 # getting-started
-A brief discription
+Hello World! Yeah
